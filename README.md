@@ -8,6 +8,13 @@ node >= 14.0.0
 $ npm install
 ```
 
+### Formatting
+
+#### Typescript/Javascript
+```
+$ npm run format-prettier
+```
+
 ### Running Exercises
 
 #### Javascript 
